@@ -9,6 +9,9 @@ nav {
 }
 
 body {
+  background-color: white;
+  font-color: black;
+}
 
 h1 {
   display: inline-block;
