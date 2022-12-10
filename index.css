@@ -17,6 +17,7 @@ h1 {
 
 li {
   display: inline-block;
-  width: auto;
+  width: 25%;
   font-size: 60px;
+  text-align: center;
 }
